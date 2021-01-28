@@ -1,6 +1,6 @@
 # blockchain_project" 
 
-## run
+## Run
 
 1. Start ganache.
 > ganache-cli
