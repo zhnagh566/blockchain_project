@@ -13,4 +13,4 @@
 4. Start Server.
 >npm run dev
 
-5. Visit the website http://localhost:8080/
+5. Visit the website http://localhost:8080/.
