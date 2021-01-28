@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+#whole{
+	background-image: url(bg.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment: fixed;
+}
+
+input {
+	display: block;
+	margin-bottom: 12px;
+}
+    
+#account{
+	width: 575px;
+	border: 2px solid #BEE7E9;
+	padding: 15px;
+}
+
+#message{
+	width: 575px;
+	border: 2px solid #BEE7E9;
+	padding: 15px;
+}
+
+#changeName,#create,#split,#finance,#repay{
+	width: 500px;
+	border: 2px solid #BEEDC7;
+	padding: 15px;
+}
+
+.status{
+	color:#F00;
+}
